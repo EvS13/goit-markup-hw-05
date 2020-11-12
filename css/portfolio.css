@@ -72,7 +72,6 @@ img {
 
 .projects {
     position: absolute;
-    opacity: 0;
 
     display: block;
     color: var(--button-color);
